@@ -1,0 +1,10 @@
+﻿  EBO.cpp
+  main.cpp
+D:\compulsory 1\3D_Compulsory_1-\compulsory 1 retry_3D_programming\task_3\OpenGL\main.cpp(75,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  ShaderClass.cpp
+  VAO.cpp
+  VBO.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGL.vcxproj -> D:\compulsory 1\3D_Compulsory_1-\compulsory 1 retry_3D_programming\task_3\x64\Debug\OpenGL.exe

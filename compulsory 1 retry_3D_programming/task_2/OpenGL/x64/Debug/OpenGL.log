@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\3d programering\compulsory 1 retry\task_2\OpenGL\main.cpp(74,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGL.vcxproj -> D:\3d programering\compulsory 1 retry\task_2\x64\Debug\OpenGL.exe
